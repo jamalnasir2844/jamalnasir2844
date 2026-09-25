@@ -185,68 +185,192 @@ I engineer digital experiences where performance, usability, motion, and visual 
 
 🚀 Execution Lifecycle
 
+## 🚀 Execution Lifecycle
+
 <div align="center">
 
-Phase
+<sub>From first idea to a production-ready digital experience — every stage has a purpose.</sub>
 
-01. DESIGN
+<br/><br/>
 
-02. ENGINEER
+<table>
+<tr>
 
-03. ANIMATE
+<td align="center" width="20%">
 
-04. INTEGRATE
+<img src="https://img.shields.io/badge/01-DESIGN-58A6FF?style=for-the-badge&logo=figma&logoColor=white" />
 
-05. SHIP
+<br/><br/>
 
-Focus
+### 🎨 Design
 
-Intent & Hierarchy
+**Intent & Hierarchy**
 
-Scalable & Typed Code
+<sub>
+Define the user journey, information hierarchy, visual direction, and interaction goals.
+</sub>
 
-Motion with Purpose
+<br/><br/>
 
-AI & Cloud Native
+<code>Figma</code> <code>UX</code> <code>Grid</code>
 
-Deploy & Optimize
+</td>
 
-Tooling
+<td align="center" width="20%">
 
-Figma · Grid Systems
+### ➜
 
-React · TypeScript
+</td>
 
-GSAP · Framer Motion
+<td align="center" width="20%">
 
-Firebase · OpenAI APIs · n8n
+<img src="https://img.shields.io/badge/02-ENGINEER-238636?style=for-the-badge&logo=react&logoColor=white" />
 
-Vercel · Lighthouse
+<br/><br/>
+
+### ⚙️ Engineer
+
+**Scalable & Typed Code**
+
+<sub>
+Transform the design into modular, maintainable, type-safe application architecture.
+</sub>
+
+<br/><br/>
+
+<code>React</code> <code>TypeScript</code> <code>Node.js</code>
+
+</td>
+
+<td align="center" width="20%">
+
+### ➜
+
+</td>
+
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/03-ANIMATE-8E44AD?style=for-the-badge&logo=greensock&logoColor=white" />
+
+<br/><br/>
+
+### ✨ Animate
+
+**Motion with Purpose**
+
+<sub>
+Add meaningful interactions, transitions, micro-animations, and visual feedback.
+</sub>
+
+<br/><br/>
+
+<code>GSAP</code> <code>Motion</code> <code>3D</code>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/04-INTEGRATE-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+
+<br/><br/>
+
+### 🤖 Integrate
+
+**AI & Cloud Native**
+
+<sub>
+Connect APIs, databases, AI systems, authentication, automation, and cloud services.
+</sub>
+
+<br/><br/>
+
+<code>Firebase</code> <code>OpenAI</code> <code>n8n</code>
+
+</td>
+
+<td align="center" width="20%">
+
+### ➜
+
+</td>
+
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/05-SHIP-00A8E8?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<br/><br/>
+
+### 🚀 Ship
+
+**Deploy & Optimize**
+
+<sub>
+Deploy to production, monitor performance, analyze real-world usage, and continuously improve.
+</sub>
+
+<br/><br/>
+
+<code>Vercel</code> <code>Lighthouse</code> <code>CI/CD</code>
+
+</td>
+
+<td align="center" width="20%">
+
+### ↻
+
+</td>
+
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/ITERATE-161B22?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/><br/>
+
+### 🔄 Iterate
+
+**Learn → Refine → Repeat**
+
+<sub>
+Production is not the finish line. Feedback becomes the input for the next improvement cycle.
+</sub>
+
+<br/><br/>
+
+<code>Analytics</code> <code>Feedback</code> <code>Git</code>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:8E44AD,100:FF6F00&height=2&section=header&width=900" width="80%" />
+
+<br/>
+
+### ⚡ My Build Loop
+
+`DISCOVER` → `DESIGN` → `ENGINEER` → `ANIMATE` → `INTEGRATE` → `SHIP` → `ITERATE` ↺
+
+<br/>
+
+<sub>
+<strong>Idea</strong> → Structure → Experience → Intelligence → Production → Feedback → Evolution
+</sub>
 
 </div>
 
 <br/>
 
-<details>
-<summary><b>📖 Read My Story & Background</b></summary>
-
-<br/>
-
-My journey in software engineering is driven by a strong core belief: web applications should feel as fluid, refined, and powerful as native desktop software — fast, intuitive, visually stunning, and built for scale.
-
-While I engineer complete full-stack systems, my true passion lies on the frontend. That is where users interact with code. Every millisecond of latency, every animation easing, and every layout detail determines whether an application feels exceptional or ordinary.
-
-I am also actively building Agentic AI systems — integrating LLMs, AI agents, tool calling, APIs, webhooks, and n8n automation workflows to create intelligent systems that can reason through tasks and execute multi-step workflows.
-
-Whether building institutional platforms, cloud-hosted SaaS tools, cybersecurity simulators, or interactive brand experiences — I uphold the highest standard: clean code, intentional visual design, and uncompromising user experience.
-
-<br/>
-
-</details>
-
-<br/>
-
-<br/>
 
 <!-- CURRENTLY BUILDING -->
 
